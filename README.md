@@ -4,7 +4,7 @@ This project showcases a **data analysis case study** using Python, focused on t
 
 ## 📝 Project Summary
 
-I performed end-to-end analysis on two Excel files—`purchase_data.xlsx` and `sales_data.xlsx`—to uncover trends, key metrics, and correlations between purchasing and sales behaviors. All results are compiled into a visually rich PDF report.
+I performed end-to-end analysis on two Excel files—`PurchaseReport_01_01_25_to_31_05_25.xlsx` and `PurchaseReport_01_01_25_to_31_05_25.xlsx`—to uncover trends, key metrics, and correlations between purchasing and sales behaviors. All results are compiled into a visually rich PDF report.
 
 ### 🔍 Key Highlights
 
@@ -17,9 +17,9 @@ I performed end-to-end analysis on two Excel files—`purchase_data.xlsx` and `s
 
 ```
 .
-├── analysis.py             # Python source code for the entire analysis
-├── analysis_report.pdf     # Final report with visuals and insights
-└── README.md               # Project documentation
+├── Analysis_report.ipynb      # Python source code for the entire analysis
+├── analysis_report.pdf        # Final report with visuals and insights
+└── README.md                  # Project documentation
 ```
 
 ## 🛠 Tools & Technologies
@@ -51,7 +51,7 @@ To replicate the analysis:
 3. Run the Python script:
 
    ```bash
-   python analysis.py
+   python Analysis_report.ipynb
    ```
 
 4. View the generated `analysis_report.pdf`.
@@ -71,10 +71,6 @@ This project is part of my **Data Analysis Portfolio** and demonstrates practica
 
 If you'd like to connect or discuss this project:
 
-* 📧 Email: \[[your-email@example.com](mailto:your-email@example.com)]
-* 💼 LinkedIn: \[Your LinkedIn URL]
-
----
-
-Would you like a short 1-line project description to use on your GitHub **repo homepage** or **profile README** too?
+* 📧 Email: nilabhadas0157@gmail.com
+* 💼 LinkedIn: www.linkedin.com/in/nilabha-das-100b762a0
 
